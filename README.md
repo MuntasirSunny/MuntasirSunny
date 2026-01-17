@@ -26,4 +26,3 @@
 <p>&nbsp;</p>
 
 
-![Muntasir's GitHub stats](https://github-readme-stats.vercel.app/api?username=muntasirsunny&commits_year=2025)
